@@ -11,7 +11,9 @@ NeuroWeb Network is a collective Artificial Intelligence blockchain designed to 
 
 NeuroWeb builds on the basis of its predecessor - the OriginTrail Parachain- which was transformed into NeuroWeb via a community Governance vote on OriginTrail Parachain in December 2023.\
 \
-NeuroWeb is a permissionless, EVM enabled blockchain secured by Polkadot validators.&#x20;
+NeuroWeb is a permissionless, EVM enabled blockchain secured by Polkadot validators.
 
+&#x20;
 
+Official website: [https://neuroweb.ai](https://neuroweb.ai)
 
