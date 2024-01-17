@@ -49,19 +49,19 @@ Depending on which entity proposed the proposal and whether all council members 
 
 A positive turnout bias, whereby a heavy super-majority of aye votes is required to carry at low turnouts, but as turnout increases towards 100%, it becomes a simple majority-carries as below.
 
-[![alt\_text](https://github.com/OriginTrail/OT-RFC-repository/raw/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image1.png)](https://github.com/OriginTrail/OT-RFC-repository/blob/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image1.png)
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-17 at 10.05.27.png" alt=""><figcaption></figcaption></figure>
 
 **Super-Majority Against**
 
 A negative turnout bias, whereby a heavy super-majority of nay votes is required to reject at low turnouts, but as turnout increases towards 100%, it becomes a simple majority-carrying as below.
 
-[![alt\_text](https://github.com/OriginTrail/OT-RFC-repository/raw/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image2.png)](https://github.com/OriginTrail/OT-RFC-repository/blob/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image2.png)
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-17 at 10.05.38.png" alt=""><figcaption></figcaption></figure>
 
 **Simple-Majority**
 
 Majority-carries, a simple comparison of votes; if there are more aye votes than nay, then the proposal is carried, no matter how much stake votes on the proposal.
 
-[![alt\_text](https://github.com/OriginTrail/OT-RFC-repository/raw/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image3.png)](https://github.com/OriginTrail/OT-RFC-repository/blob/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image3.png)
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-17 at 10.05.45.png" alt=""><figcaption></figcaption></figure>
 
 **Example**
 
@@ -80,12 +80,13 @@ To calculate the voting result, we need 4 variables and the formulas listed belo
 * Turnout (total number of voting tokens, does not include conviction) = 750
 * Electorate (total number of tokens issued in the network) = 1500
 
-Since the referendum was proposed by the public (not the general council), “Super Majority Approve” formula would be used to calculate the result.
+Since the referendum was proposed by the public (not the general council), “Super Majority Approve” formula would be used to calculate the result
 
-[![alt\_text](https://github.com/OriginTrail/OT-RFC-repository/raw/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image4.png)](https://github.com/OriginTrail/OT-RFC-repository/blob/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image4.png)\
-which yields
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-17 at 10.05.52 (3).png" alt=""><figcaption></figcaption></figure>
 
-[![alt\_text](https://github.com/OriginTrail/OT-RFC-repository/raw/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image5.png)](https://github.com/OriginTrail/OT-RFC-repository/blob/main/RFCs/OT-RFC-15-OriginTrail-Parachain-Governance/images/image5.png)
+which yield
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-17 at 10.05.57.png" alt=""><figcaption></figcaption></figure>
 
 Super Majority Approve requires more aye votes to pass the referendum when turnout is low, therefore, based on the above result, the referendum will be rejected. In addition, only the winning voter's tokens are locked. If the voters on the losing side of the referendum believe that the outcome will have negative effects, their tokens are transferable so they will not be locked into the decision.
 
