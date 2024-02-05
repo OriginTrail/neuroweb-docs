@@ -33,6 +33,8 @@ Total rewards to be distributed in a winning auction: **20,000,000 NEURO**
 
 Hardcap for contributions:  250,000 DOT
 
+Distributed rewards will undergo a vesting process, with 25% available immediately, while the remaining 75% will be vested over a period of 2 years.
+
 {% hint style="info" %}
 The relevant ranking for rewards is determined at the winning block. If there are less than 50 contributors at the time of winning, the undistributed rewards are to be returned to Future auctions pool.
 {% endhint %}
