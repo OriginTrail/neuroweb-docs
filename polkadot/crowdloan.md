@@ -19,7 +19,7 @@ description: NeuroWebAI parachain auction 2024
 
 The 2nd auction will ensure the parachain slot for another 2 years. **Targeted auction slot: #62**
 
-Voting on NeuroWeb referendum that is supporting this crowdloan is active and you can participate [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/democracy), or read [voting-on-a-referendum.md](../on-chain-governance/voting-on-a-referendum.md "mention") instructions.
+NeuroWeb is crowdloan is opened under Parachain ID **3360** and you can support us on the[ following link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpolkadot.public.curie.radiumblock.co%2Fws#/parachains/crowdloan).
 
 #### Rewards amount
 
