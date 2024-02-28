@@ -1,5 +1,5 @@
 # Block Explorers
 
-Mainnet block explorer: [https://origintrail.subscan.io/](https://origintrail.subscan.io/)
+Mainnet block explorer: [https://neuroweb.subscan.io/](https://neuroweb.subscan.io/)
 
-Testnet block explorer: [https://origintrail-testnet.subscan.io/](https://origintrail-testnet.subscan.io/)
+Testnet block explorer: [https://neuroweb-testnet.subscan.io/](https://neuroweb-testnet.subscan.io/)
