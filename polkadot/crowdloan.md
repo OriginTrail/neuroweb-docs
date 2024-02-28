@@ -4,7 +4,7 @@ description: NeuroWebAI parachain auction 2024
 
 # Crowdloan
 
-[NeuroWebAI](http://neuroweb.ai) (previously OriginTrail Parachain) is approaching its 2nd bid for a parachain slot on Polkadot. NeuroWeb was the [fastest growing parachain](https://twitter.com/DrevZiga/status/1752949817658020092) in the last 6 months (currently ranked #2 for the amount of transactions among all parachains) and has just seen the launch of [Knowledge mining BETA](https://x.com/NeuroWebAI/status/1747323072015720474?s=20) & [PolkaBot.ai](https://twitter.com/PolkabotAI), widely showcasing its utility value.&#x20;
+[NeuroWebAI](http://neuroweb.ai) (previously OriginTrail Parachain) extended a parachain slot on Polkadot by winning on [auction #62](https://parachains.info/auctions/polkadot-60-66#neuroweb). NeuroWeb was the [fastest growing parachain](https://twitter.com/DrevZiga/status/1752949817658020092) in the last 6 months (currently ranked #2 for the amount of transactions among all parachains) and has just seen the launch of [Knowledge mining BETA](https://x.com/NeuroWebAI/status/1747323072015720474?s=20) & [PolkaBot.ai](https://twitter.com/PolkabotAI), widely showcasing its utility value.&#x20;
 
 ### NeuroWebAI core functionalities
 
@@ -17,9 +17,7 @@ description: NeuroWebAI parachain auction 2024
 
 <figure><img src="../.gitbook/assets/GFO43N9XsAAJVkx.jpeg" alt=""><figcaption><p>NeuroWeb (previously OriginTrail Parachain) was the<a href="https://twitter.com/DrevZiga/status/1752949817658020092"> fastest growing parachain </a>in the last 6 months</p></figcaption></figure>
 
-The 2nd auction will ensure the parachain slot for another 2 years. **Targeted auction slot: #62**
-
-NeuroWeb is crowdloan is opened under Parachain ID **3360** and you can support us on the[ following link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpolkadot.public.curie.radiumblock.co%2Fws#/parachains/crowdloan).
+NeuroWeb has successfully secured the parachain slot by [winning on auction #62](https://parachains.info/auctions/polkadot-60-66#neuroweb) for an additional 2-year period, extending its lease duration.  Rewards for distribution contributors will be distributed on April 11, 2024.
 
 #### Rewards amount
 
@@ -34,6 +32,8 @@ Total rewards to be distributed in a winning auction: **20,000,000 NEURO**
 Hardcap for contributions:  250,000 DOT
 
 Distributed rewards will undergo a vesting process, with 25% available immediately, while the remaining 75% will be vested over a period of 2 years.
+
+Distribution date: 11.4.2024.
 
 {% hint style="info" %}
 The relevant ranking for rewards is determined at the winning block. If there are less than 50 contributors at the time of winning, the undistributed rewards are to be returned to Future auctions pool.
