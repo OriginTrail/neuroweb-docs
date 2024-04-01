@@ -11,5 +11,6 @@
 * [On-chain Governance](on-chain-governance/README.md)
   * [Voting on a referendum](on-chain-governance/voting-on-a-referendum.md)
   * [Removing expired democracy locks](on-chain-governance/removing-expired-democracy-locks.md)
+  * [Submit a governance proposal](on-chain-governance/submit-a-governance-proposal.md)
 * [Polkadot](polkadot/README.md)
   * [Crowdloan](polkadot/crowdloan.md)
