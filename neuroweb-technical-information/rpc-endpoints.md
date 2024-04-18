@@ -7,7 +7,7 @@ There are currently 2 public networks running NeuroWeb code:&#x20;
 
 ### NeuroWeb Mainnet
 
-<table><thead><tr><th width="365">Parameter</th><th>Value</th></tr></thead><tbody><tr><td>chainID</td><td>2043</td></tr><tr><td>Network Name</td><td>NeuroWeb Mainnet</td></tr><tr><td>RPC Endpoint</td><td><a href="https://astrosat-parachain-rpc.origin-trail.network/">https://astrosat-parachain-rpc.origin-trail.network/</a></td></tr><tr><td>Token symbol</td><td>NEURO (MNEURO in Metamask), formerly OTP</td></tr><tr><td>Block Explorer URL</td><td><a href="https://neuroweb.subscan.io/">https://neuroweb.subscan.io/</a></td></tr></tbody></table>
+<table><thead><tr><th width="365">Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Chain ID</td><td>2043</td></tr><tr><td>Network Name</td><td>NeuroWeb Mainnet</td></tr><tr><td>RPC Endpoint</td><td><a href="https://astrosat-parachain-rpc.origin-trail.network/">https://astrosat-parachain-rpc.origin-trail.network/</a></td></tr><tr><td>Token symbol</td><td>NEURO (MNEURO in Metamask), formerly OTP</td></tr><tr><td>Block Explorer URL</td><td><a href="https://neuroweb.subscan.io/">https://neuroweb.subscan.io/</a></td></tr></tbody></table>
 
 Note: because of difference in token decimals between ETH (18) and NEURO/OTP (12), one token in Metamask will be equal to 1 milion NEUROs
 
@@ -23,6 +23,6 @@ Polkadot.js endpoint is available [here](https://polkadot.js.org/apps/?rpc=wss%3
 
 Metamask connection parameters:
 
-<table><thead><tr><th>Parameters</th><th>Value</th><th data-hidden></th></tr></thead><tbody><tr><td>chainID</td><td>20430</td><td></td></tr><tr><td>Network Name</td><td>NeuroWeb Testnet</td><td></td></tr><tr><td>RPC Endpoint</td><td><a href="https://lofar-testnet.origin-trail.network">https://lofar-testnet.origin-trail.network</a></td><td></td></tr><tr><td>Token symbol</td><td>NEURO (MNEURO in Metamask), formerly OTP</td><td></td></tr><tr><td>Block Explorer URL</td><td><a href="https://neuroweb-testnet.subscan.io/">https://neuroweb-testnet.subscan.io/</a></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Parameters</th><th>Value</th><th data-hidden></th></tr></thead><tbody><tr><td>Chain ID</td><td>20430</td><td></td></tr><tr><td>Network Name</td><td>NeuroWeb Testnet</td><td></td></tr><tr><td>RPC Endpoint</td><td><a href="https://lofar-testnet.origin-trail.network">https://lofar-testnet.origin-trail.network</a></td><td></td></tr><tr><td>Token symbol</td><td>NEURO (MNEURO in Metamask), formerly OTP</td><td></td></tr><tr><td>Block Explorer URL</td><td><a href="https://neuroweb-testnet.subscan.io/">https://neuroweb-testnet.subscan.io/</a></td><td></td></tr></tbody></table>
 
 Note: because of difference in token decimals between ETH (18) and NEURO/OTP (12), one token in Metamask will be equal to 1 milion NEUROs
