@@ -17,11 +17,11 @@ description: NeuroWebAI parachain auction 2024
 
 <figure><img src="../.gitbook/assets/GFO43N9XsAAJVkx.jpeg" alt=""><figcaption><p>NeuroWeb (previously OriginTrail Parachain) was the<a href="https://twitter.com/DrevZiga/status/1752949817658020092"> fastest growing parachain </a>in the last 6 months</p></figcaption></figure>
 
-NeuroWeb has successfully secured the parachain slot by [winning on auction #62](https://parachains.info/auctions/polkadot-60-66#neuroweb) for an additional 2-year period, extending its lease duration.  Rewards for distribution contributors will be distributed on April 11, 2024.
+NeuroWeb has successfully secured the parachain slot by [winning on auction #62](https://parachains.info/auctions/polkadot-60-66#neuroweb) for an additional 2-year period, extending its lease duration. Rewards for crowdloan contributors were distributed on April 11, 2024.
 
 #### Rewards amount
 
-Total rewards to be distributed in a winning auction: **20,000,000 NEURO**
+Total rewards distributed in a winning auction: **20,000,000 NEURO**
 
 #### Rewards distribution
 
@@ -31,9 +31,9 @@ Total rewards to be distributed in a winning auction: **20,000,000 NEURO**
 
 Hardcap for contributions:  250,000 DOT
 
-Distributed rewards will undergo a vesting process, with 25% available immediately, while the remaining 75% will be vested over a period of 2 years.
+Distributed rewards undergo a vesting process, with 25% available immediately, while the remaining 75% is vested over a period of 2 years.
 
-Distribution date: 11.4.2024.
+Rewards distributed on date: 11.4.2024.
 
 {% hint style="info" %}
 The relevant ranking for rewards is determined at the winning block. If there are less than 50 contributors at the time of winning, the undistributed rewards are to be returned to Future auctions pool.
