@@ -9,6 +9,7 @@ Centralized Exchanges (CEX) are traditional cryptocurrency trading platforms whe
 NEURO tokens are available for trading on the following exchanges:
 
 * [MEXC Exchange](https://www.mexc.com/exchange/NEURO\_USDT)
+* [Gate.io Exchange](https://www.gate.io/trade/NEURO\_USDT)
 
 #### Decentralized Exchanges (DEX)
 
