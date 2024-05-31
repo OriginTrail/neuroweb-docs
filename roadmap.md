@@ -26,8 +26,8 @@ NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed 
   * [x] Beta knowledge mining program for Art
   * [x] Whitepaper 3.0 [Verifiable Internet for Artificial Intelligence: The Convergence of Crypto, Internet and AI](https://origintrail.io/documents/Verifiable\_Internet\_for\_Artificial\_Intelligence\_whitepaper\_v3\_pre\_publication.pdf) published
 * **Q2**
-  * [ ] Multisig support enabled
-  * [ ] DKG TRAC delegated staking on NeuroWeb
+  * [x] Multisig support enabled
+  * [x] DKG TRAC delegated staking on NeuroWeb
   * [ ] Knowledge mining with DKG paranets incentivization
     * Initial Paranet Offerings (IPOs) launch
   * [ ] Major scaling boost: Asynchronous backing
