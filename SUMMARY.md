@@ -12,7 +12,7 @@
   * [Knowledge Mining Kit](knowledge-mining/knowledge-mining-kit/README.md)
     * [JSON-LD Tutorial](knowledge-mining/knowledge-mining-kit/json-ld-tutorial.md)
     * [SDK](knowledge-mining/knowledge-mining-kit/sdk.md)
-    * [ChatDKG](knowledge-mining/knowledge-mining-kit/chatdkg.md)
+    * [ChatDKG - X bot](knowledge-mining/knowledge-mining-kit/chatdkg-x-bot.md)
 * [NeuroWeb Technical information](neuroweb-technical-information/README.md)
   * [Available networks](neuroweb-technical-information/rpc-endpoints.md)
   * [Block Explorers](neuroweb-technical-information/block-explorers.md)
