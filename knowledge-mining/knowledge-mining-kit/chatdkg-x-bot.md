@@ -22,3 +22,4 @@ Create a post on X with following content:
 /mine @ChatDKG https://wiki.polkadot.network/docs/learn-async-backing | 0x19bE11Eb85795B68D141b04C729910455f520546 | Polkabot
 ```
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-07-12 at 16.58.13.png" alt=""><figcaption></figcaption></figure>
