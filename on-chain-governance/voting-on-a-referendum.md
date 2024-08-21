@@ -28,7 +28,7 @@ Here, you will see ongoing proposals and referendums. Click the "Vote" button ne
 
 ## 4. Select voting parameters
 
-In the next menu, choose the amount of OTP you'd like to vote with, as well as your vote multiplier.
+In the next menu, choose the amount of NEURO you'd like to vote with, as well as your vote multiplier.
 
 {% hint style="warning" %}
 Multiplying your vote is a unique feature in governance that allows you to increase your voting power by voluntarily locking up the tokens for a specified amount of time, also known as "conviction voting". You can read more on this[ here](https://wiki.polkadot.network/docs/learn-polkadot-opengov#voluntary-locking).

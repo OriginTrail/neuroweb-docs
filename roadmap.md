@@ -28,7 +28,7 @@ NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed 
 * **Q2**
   * [x] Multisig support enabled
   * [x] DKG TRAC delegated staking on NeuroWeb
-  * [ ] Knowledge mining with DKG paranets incentivization
+  * [x] Knowledge mining with DKG paranets incentivization
     * Initial Paranet Offerings (IPOs) launch
   * [ ] Major scaling boost: Asynchronous backing
   * [ ] NeuroWeb Collator staking
