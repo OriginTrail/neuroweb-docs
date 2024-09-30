@@ -30,16 +30,16 @@ NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed 
   * [x] DKG TRAC delegated staking on NeuroWeb
   * [x] Knowledge mining with DKG paranets incentivization
     * Initial Paranet Offerings (IPOs) launch
-  * [ ] Major scaling boost: Asynchronous backing
-  * [ ] NeuroWeb Collator staking
 * **H2**
+  * [x] Major scaling boost: Asynchronous backing
+  * [x] Ledger hardware wallet support
+  * [ ] NeuroWeb Collator staking
   * [ ] NeuroWeb Governance 2.0&#x20;
   * [ ] Private data monetization with Knowledge Assets (Knowledge marketplace)
   * [ ] Knowledge mining
     * Cross-chain Knowledge mining
     * Knowledge Contracts for AI Agents RFC
   * [ ] NeuroWeb wallet Metamask snap
-  * [ ] Ledger hardware wallet support (follow the progress [here](https://forum.polkadot.network/t/polkadot-generic-ledger-app/4295/21))
   * [ ] Polkadot - Ethereum trustless bridge (follow the progress [here](https://wiki.polkadot.network/docs/learn-bridges))
   * [ ] Further XCM integrations pending Governance voting
 
