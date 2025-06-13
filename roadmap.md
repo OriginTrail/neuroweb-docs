@@ -24,7 +24,7 @@ NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed 
 * **Q1**
   * [x] NeuroWeb wins second parachain auction - integration with Polkadot extended
   * [x] Beta knowledge mining program for Art
-  * [x] Whitepaper 3.0 [Verifiable Internet for Artificial Intelligence: The Convergence of Crypto, Internet and AI](https://origintrail.io/documents/Verifiable\_Internet\_for\_Artificial\_Intelligence\_whitepaper\_v3\_pre\_publication.pdf) published
+  * [x] Whitepaper 3.0 [Verifiable Internet for Artificial Intelligence: The Convergence of Crypto, Internet and AI](https://origintrail.io/documents/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf) published
 * **Q2**
   * [x] Multisig support enabled
   * [x] DKG TRAC delegated staking on NeuroWeb
@@ -33,24 +33,32 @@ NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed 
 * **H2**
   * [x] Major scaling boost: Asynchronous backing
   * [x] Ledger hardware wallet support
-  * [ ] NeuroWeb Collator staking
-  * [ ] NeuroWeb Governance 2.0&#x20;
-  * [ ] Private data monetization with Knowledge Assets (Knowledge marketplace)
-  * [ ] Knowledge mining
-    * Cross-chain Knowledge mining
-    * Knowledge Contracts for AI Agents RFC
-  * [ ] NeuroWeb wallet Metamask snap
-  * [ ] Polkadot - Ethereum trustless bridge (follow the progress [here](https://wiki.polkadot.network/docs/learn-bridges))
-  * [ ] Further XCM integrations pending Governance voting
 
 **2025 - Autonomous AI systems**
 
+**H1**
+
+* [x] DKG V8.0 major release
+* [ ] Neuro XCM connection to Hydration
+* [ ] Polkadot - Ethereum trustless TRAC bridge
+  * [ ] Stage 1: Neuroweb - Ethereum bridge for TRAC token implementation to enable @Hydration Omnipool TRAC liquidity
+  * [ ] Stage 2: Neuroweb - Ethereum bridge for TRAC token implementation to enable cross chain transfer of TRAC tokens used for the DKG utility
+  * [ ] Teleport system deprecation
+* [ ] DKG V8.1 major release
+
+**H2**
+
+* [ ] NeuroWeb Collator staking
+* [ ] NeuroWeb Governance 2.0&#x20;
+* [ ] Private data monetization with Knowledge Assets (Knowledge marketplace)
+* [ ] Knowledge mining
+  * Cross-chain Knowledge mining
+  * Knowledge Contracts for AI Agents RFC
+* [ ] NeuroWeb wallet Metamask snap
+* [ ] Further XCM integrations pending Governance voting
 * [ ] Autonomous Knowledge Mining
   * Autonomous knowledge publishing with DKG inferencing
   * Knowledge Contracts for AI Agents v1
   * AI agent integrations
 * [ ] Knowledge Signaling for AI: token based knowledge curation
-* [ ] On-chain Knowledge Discovery: using verifiable data in smart contracts
-  * NeuroWeb native Knowledge Discovery
-  * Cross-chain discovery (for EVM & Substrate based chains)
 * [ ] Community Treasury pool activated
