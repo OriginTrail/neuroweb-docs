@@ -1,6 +1,6 @@
 # Roadmap
 
-NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed to incentivise knowledge creation, connectivity and sharing through Knowledge Mining. It's utility token NEURO is designed to fuel the AI knowledge economy, rewarding relevant knowledge contributions to the OriginTrail Decentralized Knowledge Graph.
+NeuroWeb Network is a decentralized artificial intelligence (AI) blockchain designed to incentivize knowledge creation, connectivity, and sharing through Knowledge Mining. Its utility token NEURO is designed to fuel the AI knowledge economy, rewarding relevant knowledge contributions to the OriginTrail Decentralized Knowledge Graph (DKG).
 
 
 
@@ -9,7 +9,7 @@ NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed 
 * [x] NeuroWeb launches on Polkadot
 * [x] Initial NEURO token distribution performed
 * [x] EVM integration
-* [x] Decentralized Knowledge Graph deployed on NeuroWeb
+* [x] Decentralized Knowledge Graph (DKG) deployed on NeuroWeb
 
 **2023 - Journey to Decentralization: Empowerment of Token Holders**
 
@@ -19,11 +19,11 @@ NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed 
 * [x] OriginTrail Parachain becomes NeuroWeb (OTP renamed to NEURO)
 * [x] Knowledge mining for Decentralized AI campaign
 
-**2024 - Crowdsourcing Knowledge with Initial Paranet Offerings**&#x20;
+**2024 - Crowdsourcing Knowledge with Initial Paranet Offerings (IPOs)**
 
 * **Q1**
   * [x] NeuroWeb wins second parachain auction - integration with Polkadot extended
-  * [x] Beta knowledge mining program for Art
+  * [x] Beta knowledge mining program for art
   * [x] Whitepaper 3.0 [Verifiable Internet for Artificial Intelligence: The Convergence of Crypto, Internet and AI](https://origintrail.io/documents/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf) published
 * **Q2**
   * [x] Multisig support enabled
@@ -42,7 +42,7 @@ NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed 
 * [ ] Neuro XCM connection to Hydration
 * [ ] Polkadot - Ethereum trustless TRAC bridge
   * [ ] Stage 1: Neuroweb - Ethereum bridge for TRAC token implementation to enable @Hydration Omnipool TRAC liquidity
-  * [ ] Stage 2: Neuroweb - Ethereum bridge for TRAC token implementation to enable cross chain transfer of TRAC tokens used for the DKG utility
+  * [ ] Stage 2: Neuroweb - Ethereum bridge for TRAC token implementation to enable cross-chain transfer of TRAC tokens used for the DKG utility
   * [ ] Teleport system deprecation
 * [ ] DKG V8.1 major release
 
@@ -50,15 +50,15 @@ NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed 
 
 * [ ] NeuroWeb Collator staking
 * [ ] NeuroWeb Governance 2.0&#x20;
-* [ ] Private data monetization with Knowledge Assets (Knowledge marketplace)
+* [ ] Private data monetization with Knowledge Assets (knowledge marketplace)
 * [ ] Knowledge mining
-  * Cross-chain Knowledge mining
-  * Knowledge Contracts for AI Agents RFC
+  * Cross-chain knowledge mining
+  * Knowledge contracts for AI agents RFC
 * [ ] NeuroWeb wallet Metamask snap
 * [ ] Further XCM integrations pending Governance voting
-* [ ] Autonomous Knowledge Mining
+* [ ] Autonomous knowledge mining
   * Autonomous knowledge publishing with DKG inferencing
-  * Knowledge Contracts for AI Agents v1
+  * Knowledge contracts for AI agents v1
   * AI agent integrations
-* [ ] Knowledge Signaling for AI: token based knowledge curation
-* [ ] Community Treasury pool activated
+* [ ] Knowledge signaling for AI: token-based knowledge curation
+* [ ] Community treasury pool activated

@@ -9,11 +9,11 @@ description: >-
 
 <figure><img src=".gitbook/assets/NeuroWeb X visual (1).jpg" alt=""><figcaption></figcaption></figure>
 
-NeuroWeb Network is a decentralized Artificial Intelligence blockchain designed to incentivise knowledge creation, connectivity and sharing through **Knowledge Mining**. It's utility token NEURO is designed to fuel the AI knowledge economy, rewarding relevant knowledge contributions to the **OriginTrail Decentralized Knowledge Graph**.&#x20;
+NeuroWeb Network is a decentralized artificial intelligence (AI) blockchain designed to incentivize knowledge creation, connectivity, and sharing through **Knowledge Mining**. Its utility token NEURO is designed to fuel the AI knowledge economy, rewarding relevant knowledge contributions to the **OriginTrail Decentralized Knowledge Graph**.&#x20;
 
 NeuroWeb builds on the basis of its predecessor - the OriginTrail Parachain - which was transformed into NeuroWeb via a community Governance vote on OriginTrail Parachain in December 2023.\
 \
-NeuroWeb is a permissionless, EVM enabled blockchain secured by Polkadot validators.
+NeuroWeb is a permissionless, EVM-enabled blockchain secured by Polkadot validators.
 
 
 
