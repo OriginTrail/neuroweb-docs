@@ -10,16 +10,18 @@ The beta program was focused on Art knowledge mining.
 
 Compete for your part of the **200,000 NEURO** rewards pool among the vibrant community of artists that are adding their creations to the OriginTrail Decentralized Knowledge Graph as the first group of Knowledge miners.
 
-Art knowledge mining is closed, scroll down to check final leaderboard of knowledge miners that contributed Art.
+{% hint style="danger" %}
+Art knowledge mining is closed. Scroll down to check the final leaderboard of knowledge miners who contributed their art.
+{% endhint %}
 
 ### Art Knowledge Mining via X
 
-To get started with knowledge mining for art on X you can utilize the @ChatDKG X bot.\
+To get started with knowledge mining for art on X, you can utilize the @ChatDKG X bot.\
 \
-To mine knowledge you can use the following commands:
+To mine knowledge, you can use the following commands:
 
-* _**/mint**_ command, which creates a new [knowledge asset](https://docs.origintrail.io/decentralized-knowledge-graph-layer-2/dkg-basic-concepts#what-is-a-knowledge-asset) from an existing image
-* _**/imagine**_ command, which creates a derivative art piece and corresponding knowledge asset from a provided art knowledge asset, with an appropriate connection in the DKG
+* _**/mint**_ command, which creates a new [Knowledge Asset](https://docs.origintrail.io/decentralized-knowledge-graph-layer-2/dkg-basic-concepts#what-is-a-knowledge-asset) from an existing image
+* _**/imagine**_ command, which creates a derivative art piece and corresponding Knowledge Asset from a provided art Knowledge Asset, with an appropriate connection in the DKG
 
 To use the /mint command, simply tweet:
 

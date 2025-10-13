@@ -1,30 +1,30 @@
-# JSON-LD Tutorial
+# JSON-LD tutorial
 
-In this tutorial, you will learn how to prepare JSON-LD for Knowledge Assets creation, a data format that enables you to express Linked Data in JSON. Knowledge Assets are self-contained and structured pieces of knowledge that can be used across Web3 applications and connected to other Knowledge Assets in a decentralized knowledge graph. You will also learn how to use various tools to work with JSON-LD data, such as OpenRefine, JSON-LD Playground, jsonld.js, and Schema Markup Validator.
+In this tutorial, you will learn how to prepare JSON-LD for Knowledge Assets creation, a data format that enables you to express Linked Data in JSON. _Knowledge Assets_ are self-contained and structured pieces of knowledge that can be used across Web3 applications and linked to other Knowledge Assets in a decentralized knowledge graph. You will also learn how to use various tools to work with JSON-LD data, such as OpenRefine, JSON-LD Playground, jsonld.js, and Schema Markup Validator.
 
 ## Knowledge Assets
 
-As a developer, you can create Knowledge Assets tailored to your specific use case and can be used across Web3 applications. Knowledge Assets are self-contained and structured pieces of knowledge that can be connected to other Knowledge Assets and bring great value to your organization. You can apply standardized technologies such as GS1 EPCIS, RDF/SPARQL, JSON-LD, and other W3C and GS1 standards out of the box.
+As a developer, you can create Knowledge Assets tailored to your specific use case, which can be used across Web3 applications. Knowledge Assets are self-contained and structured pieces of knowledge that can be linked to other Knowledge Assets and bring great value to your organization. You can apply standardized technologies such as GS1 EPCIS, RDF/SPARQL, JSON-LD, and other W3C and GS1 standards out of the box.
 
-JSON-LDs are used to create Knowledge Assets. A knowledge asset is an ownable container for your valuable information that can describe any physical thing, documents, abstract concepts, numbers, or strings. Your data is stored in a decentralized knowledge graph, which makes it easily discoverable. The underlying blockchain safeguards your information integrity and knowledge asset ownership. More on knowledge assets can be found [here](https://docs.origintrail.io/decentralized-knowledge-graph-layer-2/dkg-basic-concepts) and [here](https://origintrail.io/products/knowledge-assets/).
+JSON-LDs are used to create Knowledge Assets. A Knowledge Asset is an ownable container for your valuable information that can describe any physical thing, document, abstract concept, number, or string. Your data is stored in a Decentralized Knowledge Graph, which makes it easily discoverable. The underlying blockchain safeguards the integrity of your information and the ownership of your Knowledge Asset. More on Knowledge Assets can be found [here](https://docs.origintrail.io/key-concepts/dkg-key-concepts) and [here](https://origintrail.io/technology/decentralized-knowledge-graph).
 
 ### JSON-LD
 
-JSON-LD stands for JavaScript Object Notation for Linked Data. It is a lightweight data format used to encode Linked Data using JSON. JSON-LD is easy to read and understand for humans and a powerful format for creating structured data.
+JSON-LD stands for JavaScript Object Notation for Linked Data. It is a lightweight JSON-based data format for encoding Linked Data. JSON-LD is easy to read and understand for humans and a powerful format for creating structured data.
 
-JSON and JSON-LD are both data formats based on JavaScript Object Notation. The main difference is that JSON-LD adds a context to link the data to well-defined vocabularies, such as Schema.org. Adding a context to link the data to well-defined vocabularies, such as Schema.org, and JSON-LD makes the data more semantic and machine-understandable. It is also compatible with Linked Data principles.
+**JSON and JSON-LD** are both data formats based on JavaScript Object Notation. The main difference is that JSON-LD adds a context to link the data to well-defined vocabularies, such as Schema.org. Adding context to link the data to well-defined vocabularies, such as Schema.org, and JSON-LD makes the data more semantic and machine-understandable. It is also compatible with Linked Data principles.
 
-Linked Data is a powerful concept that allows data to be interlinked and become more valuable through semantic queries. Linked Data allows the publishing of structured data to be interlinked and become more useful through semantic queries.
+**Linked Data** is a powerful concept that allows data to be interlinked and become more valuable through semantic queries. Linked Data allows structured data to be published and interlinked, making it more useful through semantic queries.
 
-In the context of knowledge graphs, Linked Data principles are used to create a network of data that can be easily queried and analyzed. Knowledge graphs are a database that uses a graph structure to represent data and their relationships. Using Linked Data principles, knowledge graphs can be created that are interoperable with other data sources from the knowledge graph, making it possible to combine data from multiple sources by connecting them to create a complete picture of a particular domain.
+In the context of knowledge graphs, Linked Data principles are used to create a network of data that can be easily queried and analyzed. **Knowledge graphs** are databases that use graph structures to represent data and its relationships. Using Linked Data principles, knowledge graphs can be created that are interoperable with other data sources from the knowledge graph, making it possible to combine data from multiple sources by connecting them to create a complete picture of a particular domain.
 
 For further exploration of Linked Data and the concept of a knowledge graph, you can delve into additional resources available [here](https://docs.origintrail.io/general/kg).
 
-JSON-LD allows you to structure your data to align with Linked Data principles. It achieves this through its unique features:
+**JSON-LD allows you to structure your data to align with Linked Data principles.** It achieves this through its unique features:
 
-* Context: JSON-LD allows you to define a context for your data. This context provides a way to map JSON keys to specific meanings or vocabularies. By using a context, you can semantically enrich your data, defining how JSON keys relate to terms in an ontology or schema.
-* Compact and Expanded Syntax: JSON-LD supports both a compact and an expanded syntax. The compact syntax is more human-readable and concise, while the expanded syntax is more verbose and suitable for machine processing. Both syntaxes represent the same data model but offer different levels of readability.
-* Linked Data Principles: JSON-LD is designed to adhere to the principles of Linked Data. These principles include using URIs as identifiers for resources, providing links to other resources, and using standard vocabularies or ontologies to define the meaning of terms. By following these principles, JSON-LD enables data to be easily linked and queried in a semantic manner.
+* **Context:** JSON-LD allows you to define a context for your data. This context provides a way to map JSON keys to specific meanings or vocabularies. By using a context, you can semantically enrich your data, defining how JSON keys relate to terms in an ontology or schema.
+* **Compact and Expanded Syntax:** JSON-LD supports both a compact and an expanded syntax. The compact syntax is more human-readable and concise, while the expanded syntax is more verbose and suitable for machine processing. Both syntaxes represent the same data model but offer different levels of readability.
+* **Linked Data Principles:** JSON-LD is designed to adhere to the principles of Linked Data. These principles include using URIs as resource identifiers, providing links to other resources, and using standard vocabularies or ontologies to define the meaning of terms. By following these principles, JSON-LD enables data to be easily linked and queried semantically.
 
 Here is an example of JSON-LD code that describes a person:
 
@@ -59,15 +59,17 @@ Other fields are standard parts of the Person schema, additionally, more fields 
 
 A detailed explanation of how to build and use JSON-LD can be found [here](https://www.w3.org/TR/json-ld11/).
 
-### JSON-LD and KAs
+### JSON-LD and Knowledge Assets
 
-When crafting JSON-LD, it's important to consider how it will translate into a Knowledge Asset, especially regarding the handling of private and public fields. By defining these fields in the JSON-LD format, you can maintain control over sensitive data within your Knowledge Asset, ensuring that it remains private while still allowing for the publication of relevant public information. Additionally, connecting your Knowledge Asset to existing knowledge within the Decentralized Knowledge Graph (DKG) through Universal Asset Locators (UALs) can significantly enhance its value and discoverability. These UALs serve as unique identifiers, similar to URLs on the traditional web, enabling seamless navigation and linking within the DKG.
+When crafting JSON-LD, it's important to consider how it will translate into a Knowledge Asset (KA), especially regarding the handling of private and public fields. By defining these fields in the JSON-LD format, you can maintain control over sensitive data within your Knowledge Asset, ensuring that it remains private while still allowing for the publication of relevant public information. Additionally, connecting your Knowledge Asset to existing knowledge within the Decentralized Knowledge Graph (DKG) through Universal Asset Locators (UALs) can significantly enhance its value and discoverability. These UALs serve as unique identifiers, similar to URLs on the traditional web, enabling seamless navigation and linking within the DKG.
 
 #### Private and public fields
 
-If you have sensitive data within your Knowledge Asset that you want to keep private, you can define private and public fields using JSON-LD format. This allows you to control access to the private segment of the data, ensuring it is only accessible to you. To do this, you need to split the data into two JSON-LD properties: one that becomes public and one that becomes private. By doing so, you can ensure that the private segment of the data is only accessible to you. The public part of your data is replicated to other nodes and is accessible to others, while the private part is stored only on your node and is accessible only to you.
+If you have sensitive data in your Knowledge Asset that you want to keep private, you can define private and public fields using JSON-LD. This allows you to control access to the private segment of the data, ensuring it is only accessible to you. To do this, you need to split the data into two JSON-LD properties: one that becomes public and one that becomes private.&#x20;
 
-Example of JSON-LD with public and private part:
+By doing so, you can ensure that the private segment of the data is only accessible to you. The public part of your data is replicated to other nodes and is accessible to others, while the private part is stored only on your node and is accessible only to you.
+
+Example of JSON-LD with public and private parts:
 
 ```
 {
@@ -101,9 +103,9 @@ Example of JSON-LD with public and private part:
 
 #### Connecting data
 
-To unlock the full potential of the knowledge assets they should connect it to existing knowledge in the DKG.&#x20;
+To unlock the full potential of the Knowledge Assets,  they should be connected to existing knowledge in the DKG.&#x20;
 
-For your knowledge asset to be connected to other knowledge assets it needs to include the Universal Asset Locator of the asset you want to point to. The Universal Asset Locator (UAL) is a unique identifier used to locate and identify a specific Knowledge Asset within the OriginTrail Decentralized Knowledge Graph (DKG). It is similar to a URL in the traditional web and follows the DID URL specification. More on UAL can be found [here](https://docs.origintrail.io/decentralized-knowledge-graph-layer-2/dkg-basic-concepts#what-is-a-ual).
+For your Knowledge Asset to be connected to other Knowledge Assets, it needs to include the Universal Asset Locator of the asset you want to point to. The Universal Asset Locator (UAL) is a unique identifier used to locate and identify a specific Knowledge Asset within the OriginTrail Decentralized Knowledge Graph (DKG). It is similar to a URL in the traditional web and follows the DID URL specification. More on UAL can be found [here](https://docs.origintrail.io/decentralized-knowledge-graph-layer-2/dkg-basic-concepts#what-is-a-ual).
 
 Example of JSON-LD connected to Knowledge Asset with UAL "did:dkg:otp/0x5cac41237127f94c2d21dae0b14bfefa99880630/1962724"
 
@@ -122,7 +124,7 @@ Example of JSON-LD connected to Knowledge Asset with UAL "did:dkg:otp/0x5cac4123
 }
 ```
 
-By incorporating references to other knowledge assets through Unique Asset Locators (UALs) in your JSON-LD, you enhance the discoverability and context of your knowledge asset. This interconnected web of information contributes to a richer decentralized knowledge graph, where relationships between different assets can be more easily understood. By participating in this ecosystem, your knowledge assets not only become more discoverable but also gain depth and relevance through the context provided by other assets. This interconnectedness ultimately enhances the value of your knowledge assets within the broader knowledge graph, contributing to a more comprehensive and valuable resource for all participants in the decentralized knowledge network.
+By incorporating references to other knowledge assets through Unique Asset Locators (UALs) in your JSON-LD, you enhance the discoverability and context of your Knowledge Asset. This interconnected web of information contributes to a richer decentralized knowledge graph, where relationships between different assets are more easily understood. By participating in this ecosystem, your Knowledge Assets not only become more discoverable but also gain depth and relevance through the context provided by other assets. This interconnectedness ultimately enhances the value of your Knowledge Assets within the broader knowledge graph, contributing to a more comprehensive and valuable resource for all participants in the decentralized knowledge network.
 
 ### Tools
 
@@ -130,9 +132,9 @@ In this chapter, you will learn about some of the tools that can assist you in w
 
 #### OpenRefine
 
-OpenRefine is a free and open-source tool that lets you clean, transform, and extend your data from various sources. You can use facets, heuristics, reconciliation, and web services to work with large datasets and external databases. OpenRefine can handle different file formats, such as CSV, JSON, XML, ODS, XLS, and more. OpenRefine also supports extensions that add more functionality and features to the tool.
+OpenRefine is a free and open-source tool that lets you clean, transform, and extend your data from various sources. You can use facets, heuristics, reconciliation, and web services to work with large datasets and external databases. OpenRefine supports a wide range of file formats, including CSV, JSON, XML, ODS, XLS, and more. OpenRefine also supports extensions that add more functionality and features to the tool.
 
-One of the extensions that OpenRefine supports is JSON-LD. You can use OpenRefine to create JSON-LD data from your existing data, by adding a context column that links your data to well-defined vocabularies, such as Schema.org. You can also use OpenRefine to validate, export, and import JSON-LD data, as well as reconcile it with external sources.
+One of the extensions that OpenRefine supports is JSON-LD. You can use OpenRefine to create JSON-LD data from your existing data by adding a context column that links your data to well-defined vocabularies, such as Schema.org. You can also use OpenRefine to validate, export, and import JSON-LD data, as well as reconcile it with external sources.
 
 You can find OpenRefine documentation [here](https://openrefine.org/docs).
 
@@ -146,4 +148,4 @@ jsonld.js is a JavaScript library that implements the JSON-LD specification, whi
 
 #### Schema Markup Validator
 
-Schema Markup Validator is a tool that lets you test your structured data that uses the Schema.org vocabulary, which is a widely used and supported vocabulary for describing various types of entities on the web. You can paste your JSON-LD, code or enter a URL and see the results in a graphical or raw format. Schema Markup Validator can be accessed [here](https://validator.schema.org/).
+Schema Markup Validator is a tool that lets you test your structured data using the Schema.org vocabulary, which is a widely used and supported vocabulary for describing various types of entities on the web. You can paste your JSON-LD code or enter a URL and see the results in a graphical or raw format. Schema Markup Validator can be accessed [here](https://validator.schema.org/).

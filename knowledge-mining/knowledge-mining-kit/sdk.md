@@ -13,20 +13,20 @@ The OriginTrail SDK is available in two implementations: Javascript and Python. 
 
 ## Setting up SDK
 
-To configure both the JavaScript and Python clients, it's necessary to supply the private and public addresses of your wallet. These wallets play a crucial role in the Knowledge Mining process, as they are used to publish knowledge assets.&#x20;
+To configure both the JavaScript and Python clients, you need to provide the private and public addresses of your wallet. These wallets play a crucial role in the Knowledge Mining process, as they are used to publish knowledge assets.&#x20;
 
 It's important to remember that only Knowledge Assets that are published on the NeuroWeb mainnet are eligible for Knowledge Mining. Therefore, clients should be set up with this in mind.
 
-To use client access to DKG node is required, you can host the node yourself, more on node hosting can be found [here](https://docs.origintrail.io/decentralized-knowledge-graph/node-setup-instructions). Or other node runners need to provide access.
+To use the client, access to the DKG node is required. You can host the node yourself; more on node hosting can be found [here](https://docs.origintrail.io/build-with-dkg/quickstart-test-drive-the-dkg-in-5-mins). Or other node runners need to provide access.
 
-### JavaScript Client - dkg.js
+### JavaScript Client — dkg.js
 
-Full documentation on JavaScript client can be found [here](https://docs.origintrail.io/decentralized-knowledge-graph/dkg-sdk/dkg-v6-js-client). Dkg.js is available on [github](https://github.com/OriginTrail/dkg.js) and [npm](https://www.npmjs.com/package/dkg.js).
+Full documentation on the JavaScript client can be found [here](https://docs.origintrail.io/build-with-dkg/quickstart-test-drive-the-dkg-in-5-mins/quickstart-with-node.js). Dkg.js is available on [github](https://github.com/OriginTrail/dkg.js) and [npm](https://www.npmjs.com/package/dkg.js).
 
-### Python Client - dkg.py
+### Python Client — dkg.py
 
-Full documentation on Python client can be found [here](https://docs.origintrail.io/decentralized-knowledge-graph/dkg-sdk/dkg-v6-py-client). Dkg.py is available on [github](https://github.com/OriginTrail/dkg.py) and [pypi](https://pypi.org/project/dkg/).
+Full documentation on Python client can be found [here](https://docs.origintrail.io/build-with-dkg/quickstart-test-drive-the-dkg-in-5-mins/quickstart-with-python). Dkg.py is available on [github](https://github.com/OriginTrail/dkg.py) and [pypi](https://pypi.org/project/dkg/).
 
 {% hint style="info" %}
-The OriginTrail SDK libraries are being built in various languages by the team and the community, expect more implementations in future to become available!
+The OriginTrail SDK libraries are being built in various languages by the team and the community, expect more implementations in the future to become available!
 {% endhint %}
