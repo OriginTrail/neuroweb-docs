@@ -5,7 +5,7 @@
 * [NEURO token](neuro-token/README.md)
   * [Tokenomics](neuro-token/tokenomics.md)
   * [Exchanges](neuro-token/exchanges.md)
-  * [Bridges](neuro-token/bridges.md)
+* [Ethereum-NeuroWeb TRAC Bridge](ethereum-neuroweb-trac-bridge.md)
 * [Whitepapers](whitepapers.md)
 * [Knowledge mining](knowledge-mining/README.md)
   * [Knowledge mining beta program](knowledge-mining/knowledge-mining-beta-program.md)
@@ -23,4 +23,3 @@
   * [Submit a governance proposal](on-chain-governance/submit-a-governance-proposal.md)
 * [Polkadot](polkadot/README.md)
   * [Crowdloan](polkadot/crowdloan.md)
-* [Ethereum-NeuroWeb TRAC Bridge](ethereum-neuroweb-trac-bridge.md)
