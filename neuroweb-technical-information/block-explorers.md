@@ -1,5 +1,5 @@
 # Block Explorers
 
-Mainnet block explorer: [https://neuroweb.subscan.io/](https://neuroweb.subscan.io/)
+Mainnet block explorer: [https://neuroweb.ai/explorer](https://neuroweb.ai/explorer)
 
-Testnet block explorer: [https://neuroweb-testnet.subscan.io/](https://neuroweb-testnet.subscan.io/)
+Testnet block explorer: [Polkadot.js Apps (NeuroWeb Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-testnet-rpc.origin-trail.network#/explorer)
