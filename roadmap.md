@@ -59,6 +59,8 @@ NeuroWeb Network is a decentralized artificial intelligence (AI) blockchain desi
 
 **H1 2026**
 
-* [ ] Knowledge signaling for AI: token-based knowledge curation
-* [ ] Community treasury pool activated
-* [ ] DKG V8.3 major release
+* [x] DKG V8.3 major release
+
+**H2 2026**
+
+* [ ] DKG V10 major release
