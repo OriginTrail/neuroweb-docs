@@ -13,7 +13,7 @@ The council is called upon primarily for **three tasks of governance:**
 3. **Fast-track** referenda proposal.
 
 {% hint style="info" %}
-Members of the council can be checked [here](https://origintrail.subscan.io/account?role=councilMember).
+Members of the council can be checked [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/council).
 {% endhint %}
 
 ## Democracy
